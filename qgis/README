@@ -1,0 +1,3 @@
+This directory will contain a sample QGIS project with drainage styling.
+
+The data directory will contain sample data downloaded from the HOT export site. To use your own data with the same styling, add your own data which matches these layers, then choose "Copy Style" in QGIS and "Paste Style" to your own matching layers.
