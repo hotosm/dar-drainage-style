@@ -1,5 +1,5 @@
 _prefs: 
-  mapid: jeffhaack.7b797618
+  mapid: hot.89e40cdf
   saveCenter: false
 _properties: 
   bridge: 
@@ -11,8 +11,8 @@ bounds:
   - 180
   - 85.0511
 center: 
-  - 39.2339
-  - -6.7945
+  - 39.2298
+  - -6.7887
   - 14
 description: A map of rivers, streams, drains, and weltlands based on Mapbox's monotone basemap.
 format: "png8:m=h"
@@ -20,7 +20,7 @@ interactivity_layer: ''
 layers: null
 maxzoom: 21
 minzoom: 0
-name: Drainage Map Tanzania
+name: Dar Drainage Map
 source: "mapbox:///mapbox.mapbox-streets-v5"
 styles: 
   - style.mss

@@ -80,3 +80,6 @@
   }
 }
 
+#waterway [type='ditch'] {
+  line-dasharray: 4,2;
+}
